@@ -1,5 +1,5 @@
 {
-  "name": "set-deep",
+  "name": "set-deeep",
   "version": "1.0.0",
   "description": "A utility for setting deeply nested values of object",
   "main": "index.js",
