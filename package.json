@@ -1,0 +1,13 @@
+{
+  "name": "set-deep",
+  "version": "1.0.0",
+  "description": "A utility for setting deeply nested values of object",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qrysto/set-deep"
+  },
+  "author": "qrysto",
+  "license": "GNU GPL",
+  "homepage": "https://github.com/Qrysto/set-deep"
+}
